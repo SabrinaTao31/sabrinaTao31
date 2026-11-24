@@ -24,6 +24,8 @@ I'm currently exploring secure authentication, application architecture and acce
 | [**ESSTBooking**](https://github.com/SabrinaTao31/ESSTBooking) | University room reservation web application | JavaScript, React, Vite, Tailwind CSS |
 | [**IseeYOU**](https://github.com/SabrinaTao31/IseeYOU) | Experimental domino-game assistant prototype | HTML, CSS, JavaScript |
 
+| [**Cybersecurity-Lab**](https://github.com/SabrinaTao31/Cybersecurity-Lab) | Defensive security learning lab: file integrity, encoding, input validation and automated tests | Python, GitHub Actions |
+
 ## 02 — Technical toolbox
 
 **Languages**
