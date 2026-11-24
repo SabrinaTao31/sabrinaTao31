@@ -1,12 +1,10 @@
 <div align="center">
 
-# Sabrina Taouchichet
-
-**Software Development · Web Applications · Cybersecurity**
+![Sabrina Taouchichet — Code. Create. Secure.](assets/banner.svg)
 
 *Turning ideas into useful digital experiences.*
 
-[Projects](#selected-projects) · [Technical skills](#technical-toolbox) · [About](#about-me)
+[Projects](#01--selected-projects) · [Technical skills](#02--technical-toolbox) · [About](#about-me)
 
 </div>
 
@@ -18,7 +16,7 @@ I'm a computer science student with an interest in software engineering, web dev
 
 I'm currently exploring secure authentication, application architecture and access control.
 
-## Selected projects
+## 01 — Selected projects
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
@@ -26,7 +24,7 @@ I'm currently exploring secure authentication, application architecture and acce
 | [**ESSTBooking**](https://github.com/SabrinaTao31/ESSTBooking) | University room reservation web application | JavaScript, React, Vite, Tailwind CSS |
 | [**IseeYOU**](https://github.com/SabrinaTao31/IseeYOU) | Experimental domino-game assistant prototype | HTML, CSS, JavaScript |
 
-## Technical toolbox
+## 02 — Technical toolbox
 
 **Languages**
 
@@ -47,7 +45,7 @@ I'm currently exploring secure authentication, application architecture and acce
 ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux)
 
-## Engineering interests
+## 03 — Engineering interests
 
 - Building accessible, responsive interfaces
 - Designing useful applications around real needs
