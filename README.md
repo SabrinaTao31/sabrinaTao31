@@ -1,6 +1,6 @@
 <div align="center">
 
-![Sabrina Taouchichet — Code. Create. Secure.](assets/Capture%20d%27%C3%A9cran%202026-11-25%20172035.png)
+<img src="assets/Banni%C3%A8re%20r%C3%A9tro%20pastel%20de%20d%C3%A9veloppement%20logiciel.png" width="100%" alt="Sabrina Taouchichet — Code. Create. Secure.">
 
 *Turning ideas into useful digital experiences.*
 
